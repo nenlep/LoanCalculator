@@ -1,2 +1,2 @@
 # LoanCalculator
-A responsive JavaScript app for calculating loan payment
+A responsive JavaScript app for calculating loan payment. link: https://loancal.netlify.app/
